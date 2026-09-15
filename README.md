@@ -42,17 +42,9 @@ Desarrollador versátil con experiencia integral abarcando **Frontend, Backend, 
 
 ### 📊 GitHub Stats
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST-Justo&show_icons=true&theme=transparent&hide_border=true)](https://github.com/ST-Justo)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ST-Justo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Justo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Justo&layout=compact&theme=transparent&hide_border=true)](https://github.com/ST-Justo)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ST-Justo&color=000000&style=flat-square" alt="Profile Views" />
